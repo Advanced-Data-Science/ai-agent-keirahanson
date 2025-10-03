@@ -1,0 +1,109 @@
+2025-10-01 23:39:07,160 - INFO - Starting Rent Data Collection Agent
+2025-10-01 23:39:07,160 - INFO - Stored listing 5374fd4f-f338-4078-adee-d60a195e79f3 in San Francisco
+2025-10-01 23:39:07,675 - INFO - Stored listing 4dde87aa-b67d-4cc1-b473-83f1770f2566 in San Francisco
+2025-10-01 23:39:08,038 - INFO - Stored listing 3bf45afe-5e86-4dfc-8669-f4ba34f2d388 in San Francisco
+2025-10-01 23:39:08,441 - INFO - Stored listing 10eae6c0-40cc-4326-9291-13d7e05cb74b in San Francisco
+2025-10-01 23:39:08,979 - INFO - Stored listing 7760cb71-cd90-4044-9c5f-3f6250c0c4a0 in San Francisco
+2025-10-01 23:39:09,512 - INFO - Final report generated: reports/collection_summary.json
+2025-10-01 23:39:09,512 - INFO - Raw data saved to data/raw/collected.json
+2025-10-01 23:53:14,617 - INFO - Starting Rent Data Collection Agent
+2025-10-01 23:53:14,618 - INFO - Stored listing a7920371-b33a-49f5-8a72-7bc2dce8196c in San Francisco
+2025-10-01 23:53:15,171 - INFO - Stored listing b6fc3145-6bcd-4b84-af3d-5be387f58660 in San Francisco
+2025-10-01 23:53:15,636 - INFO - Stored listing 14fbc0f1-1644-4848-943d-1f8bcce082be in San Francisco
+2025-10-01 23:53:16,056 - INFO - Stored listing 4ff3280b-b5ce-4c30-ac75-48cbc52b6271 in San Francisco
+2025-10-01 23:53:16,417 - INFO - Stored listing 943b7081-3ffa-43ec-979c-c770f8e36f89 in San Francisco
+2025-10-01 23:53:16,960 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-01 23:53:16,963 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-01 23:53:16,963 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-01 23:53:16,963 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-01 23:53:16,965 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-01 23:54:12,025 - INFO - Starting Rent Data Collection Agent
+2025-10-01 23:54:12,027 - INFO - Stored listing 9d51d286-93a5-43e9-933a-352054a65a8f in San Francisco
+2025-10-01 23:54:12,354 - INFO - Stored listing 9f900562-4e7b-4aec-9f9c-4392c42b6ab1 in San Francisco
+2025-10-01 23:54:12,862 - INFO - Stored listing 04212fa0-8823-4c45-af85-ccf5c36783c3 in San Francisco
+2025-10-01 23:54:13,154 - INFO - Stored listing f2fdf134-efc1-48d4-ab22-7b09c4b6acc6 in San Francisco
+2025-10-01 23:54:13,654 - INFO - Stored listing c9c1fc29-ddc7-4318-982a-9258ba133d69 in San Francisco
+2025-10-01 23:54:14,402 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-01 23:54:14,404 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-01 23:54:14,404 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-01 23:54:14,405 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-01 23:54:14,406 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 00:07:38,543 - INFO - Starting Rent Data Collection Agent
+2025-10-02 00:07:38,544 - INFO - Stored listing e8d5d039-fdd8-4796-9a3e-522f842561bc in San Francisco
+2025-10-02 00:07:38,837 - INFO - Stored listing 885f81a3-aa00-40cd-8957-ac3cb7485c14 in San Francisco
+2025-10-02 00:07:39,251 - INFO - Stored listing 5d44b262-7f83-448a-80b5-a0ea49b72030 in San Francisco
+2025-10-02 00:07:39,946 - INFO - Stored listing 604aaba2-c180-4bd4-945c-e42d728d08db in San Francisco
+2025-10-02 00:07:40,215 - INFO - Stored listing a29c2cc3-542e-4131-888d-7cbc4c8597db in San Francisco
+2025-10-02 00:07:40,669 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 00:07:40,671 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 00:07:40,671 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 00:07:40,671 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 00:07:40,672 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 00:07:51,095 - INFO - Starting Rent Data Collection Agent
+2025-10-02 00:07:51,096 - INFO - Stored listing c1f83698-1928-4cb3-b772-8a84fa2244aa in San Francisco
+2025-10-02 00:07:51,400 - INFO - Stored listing 4308660c-57e3-4b3f-bc86-a5a7a794efe9 in San Francisco
+2025-10-02 00:07:51,852 - INFO - Stored listing 62619c5d-2432-469a-ad75-9e515580cfde in San Francisco
+2025-10-02 00:07:52,252 - INFO - Stored listing 173da337-e20a-4e05-94c4-46314e4a11f8 in San Francisco
+2025-10-02 00:07:52,980 - INFO - Stored listing 768f59e8-bed2-4339-94d8-01664e5cdf50 in San Francisco
+2025-10-02 00:07:53,461 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 00:07:53,462 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 00:07:53,462 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 00:07:53,462 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 00:07:53,463 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 00:07:53,470 - INFO - Starting Rent Data Collection Agent
+2025-10-02 00:07:53,470 - INFO - Stored listing 944b23a1-6375-4ceb-ae34-dd98f1d85ba7 in TestCity
+2025-10-02 00:07:53,487 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 00:07:53,488 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 00:07:53,488 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 00:07:53,489 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 00:07:53,489 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 00:13:37,948 - INFO - Starting Rent Data Collection Agent
+2025-10-02 00:13:37,950 - INFO - Stored listing 70b57988-78e1-4eb1-a00f-d13b132e15b1 in San Francisco
+2025-10-02 00:13:38,469 - INFO - Stored listing 471fd24e-fac5-4977-aef6-8784c620ac5d in San Francisco
+2025-10-02 00:13:39,119 - INFO - Stored listing 465eeac2-11f7-47ca-b122-f276b3e602ab in San Francisco
+2025-10-02 00:13:39,392 - INFO - Stored listing b1cb8157-167d-4d28-9167-1f42c5c4fd7a in San Francisco
+2025-10-02 00:13:39,911 - INFO - Stored listing a1a684aa-6e3f-4b1e-a356-0d7008d221b3 in San Francisco
+2025-10-02 00:13:40,550 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 00:13:40,552 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 00:13:40,552 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 00:13:40,552 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 00:13:40,554 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 18:13:01,627 - INFO - Starting Rent Data Collection Agent
+2025-10-02 18:13:01,628 - INFO - Stored listing b70234c1-6341-480c-ab1d-f8b547363630 in San Francisco
+2025-10-02 18:13:02,033 - INFO - Stored listing d19532a2-4953-4976-93e1-36f5eef5f772 in San Francisco
+2025-10-02 18:13:02,511 - INFO - Stored listing 041b0370-1889-498b-9442-62cba29760a6 in San Francisco
+2025-10-02 18:13:02,875 - INFO - Stored listing 2b6aa606-86be-44fc-b570-8e784795249f in San Francisco
+2025-10-02 18:13:03,460 - INFO - Stored listing 48232105-b431-4676-bd71-788aac140871 in San Francisco
+2025-10-02 18:13:03,814 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 18:13:03,815 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 18:13:03,815 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 18:13:03,815 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 18:13:03,815 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 18:19:06,510 - INFO - Starting Rent Data Collection Agent
+2025-10-02 18:19:06,512 - INFO - Stored listing f909d157-b423-4ed6-b13a-7ceb7bd2004d in San Francisco
+2025-10-02 18:19:06,512 - ERROR - Collection failed: 'RentDataAgent' object has no attribute 'assess_performance'
+2025-10-02 18:20:55,672 - INFO - Starting Rent Data Collection Agent
+2025-10-02 18:20:55,673 - INFO - Stored listing 4b8a26d6-228f-4cb6-ad41-d0535d3d4db0 in San Francisco
+2025-10-02 18:20:55,673 - ERROR - Collection failed: 'RentDataAgent' object has no attribute 'assess_performance'
+2025-10-02 18:21:35,338 - INFO - Starting Rent Data Collection Agent
+2025-10-02 18:21:35,339 - INFO - Stored listing c5aa30e1-d87e-4cbb-875b-fc993eee79ba in San Francisco
+2025-10-02 18:21:35,781 - INFO - Stored listing 3621025c-5bc2-42b1-91ef-9dc9eb5dcdec in San Francisco
+2025-10-02 18:21:36,379 - INFO - Stored listing a6de4cb6-daa7-4133-b88e-76dcdfdd13bb in San Francisco
+2025-10-02 18:21:36,673 - INFO - Stored listing f348c01d-2c37-410f-840e-7f5278492f39 in San Francisco
+2025-10-02 18:21:37,380 - INFO - Stored listing e1b3fc36-7a5c-4503-85c6-8fdbd3bc1bea in San Francisco
+2025-10-02 18:21:37,661 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 18:21:37,662 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 18:21:37,662 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 18:21:37,662 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 18:21:37,663 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json
+2025-10-02 18:34:30,423 - INFO - Starting Rent Data Collection Agent
+2025-10-02 18:34:30,425 - INFO - Stored listing 27477177-f8b0-4d1b-8893-5abfd9952cf5 in San Francisco
+2025-10-02 18:34:31,061 - INFO - Stored listing 8bc3287c-7e0b-4985-9bef-73402f526d81 in San Francisco
+2025-10-02 18:34:31,652 - INFO - Stored listing 059dca34-754c-4a44-af02-0820e86caf9d in San Francisco
+2025-10-02 18:34:32,268 - INFO - Stored listing 322a0293-49b2-4d05-b9f1-7d302b484511 in San Francisco
+2025-10-02 18:34:32,687 - INFO - Stored listing 8c3d9564-79be-4f45-8a9d-47876427c5d8 in San Francisco
+2025-10-02 18:34:33,085 - INFO - Dataset metadata written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/dataset_metadata.json
+2025-10-02 18:34:33,086 - INFO - Human-readable quality report written to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.md
+2025-10-02 18:34:33,086 - INFO - Quality report generated: /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/reports/quality_report.json
+2025-10-02 18:34:33,087 - INFO - Final report generated: reports/collection_summary.json and reports/collection_summary.md
+2025-10-02 18:34:33,087 - INFO - Raw data saved to /Users/keirahanson/Desktop/keira_hanson_ai_agent_assignment/agent/data/raw/collected.json

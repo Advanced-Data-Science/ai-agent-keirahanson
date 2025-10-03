@@ -1,0 +1,9 @@
+{
+  "end_time": "2025-10-02T18:34:33.084001",
+  "total_records": 5,
+  "success_rate": 1.0,
+  "apis_used": [
+    "mock_rent_api"
+  ],
+  "issues": "See logs/collection.log"
+}

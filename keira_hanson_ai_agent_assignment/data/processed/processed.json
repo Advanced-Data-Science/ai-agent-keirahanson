@@ -1,0 +1,42 @@
+[
+  {
+    "id": "be33e49e-90fd-4b7b-9b86-a59a9ffe2934",
+    "city": "San Francisco",
+    "price": 3066,
+    "bedrooms": 1,
+    "bathrooms": 1.5,
+    "timestamp": "2025-10-02T21:25:51.787079"
+  },
+  {
+    "id": "fd0e56b7-905c-4ac8-adc3-2d607dd3f79f",
+    "city": "San Francisco",
+    "price": 2767,
+    "bedrooms": 1,
+    "bathrooms": 1.5,
+    "timestamp": "2025-10-02T21:25:52.239040"
+  },
+  {
+    "id": "0dded5fd-28d1-49e6-95e7-a9efe911bcf0",
+    "city": "San Francisco",
+    "price": 2334,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "timestamp": "2025-10-02T21:25:52.509839"
+  },
+  {
+    "id": "dd3281ad-c35c-4c08-81af-d7dabd4ff280",
+    "city": "San Francisco",
+    "price": 1702,
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "timestamp": "2025-10-02T21:25:53.127581"
+  },
+  {
+    "id": "43882f35-db49-45ec-ad35-de94d08531e1",
+    "city": "San Francisco",
+    "price": 1826,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "timestamp": "2025-10-02T21:25:53.622314"
+  }
+]

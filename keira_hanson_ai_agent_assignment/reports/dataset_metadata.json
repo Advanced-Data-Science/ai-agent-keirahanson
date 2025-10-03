@@ -1,0 +1,48 @@
+{
+  "collection_info": {
+    "collection_date": "2025-10-02T18:34:33.085553",
+    "agent_version": "1.0",
+    "collector": "KeiraHanson",
+    "total_records": 5
+  },
+  "data_sources": [
+    "mock_rent_api"
+  ],
+  "quality_metrics": {
+    "overall_quality_score": 1.0,
+    "completeness": 1.0,
+    "accuracy": 1.0,
+    "consistency": 1.0,
+    "timeliness": 1.0
+  },
+  "processing_history": [
+    {
+      "step": "normalize_rent",
+      "time": "2025-10-02T18:34:30.425070"
+    },
+    {
+      "step": "normalize_rent",
+      "time": "2025-10-02T18:34:31.061695"
+    },
+    {
+      "step": "normalize_rent",
+      "time": "2025-10-02T18:34:31.652288"
+    },
+    {
+      "step": "normalize_rent",
+      "time": "2025-10-02T18:34:32.268537"
+    },
+    {
+      "step": "normalize_rent",
+      "time": "2025-10-02T18:34:32.687784"
+    }
+  ],
+  "variables": {
+    "id": "str",
+    "city": "str",
+    "price": "int",
+    "bedrooms": "int",
+    "bathrooms": "int",
+    "timestamp": "str"
+  }
+}

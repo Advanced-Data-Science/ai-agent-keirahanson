@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "total_records": 5,
+    "collection_success_rate": 1.0,
+    "overall_quality_score": 1.0
+  },
+  "completeness_analysis": {
+    "completeness": 1.0,
+    "total_records": 5
+  },
+  "data_distribution": {
+    "min": 663,
+    "max": 2615,
+    "mean": 1458.8
+  },
+  "anomaly_detection": [],
+  "recommendations": []
+}

@@ -1,0 +1,15 @@
+{
+  "collection": {
+    "mode": "mock",
+    "base_delay": 0.5,
+    "max_records": 5
+  },
+  "apis": {
+    "rent": {
+      "base_url": "https://api.example.com/rent",
+      "fallback_url": "https://api.backup.example.com/rent",
+      "city": "San Francisco",
+      "limit": 5
+    }
+  }
+}
